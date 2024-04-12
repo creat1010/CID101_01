@@ -4,3 +4,10 @@ body{
 p{
 color: #fff;
 }
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    font-size: 32px;
+}
